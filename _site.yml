@@ -1,8 +1,14 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Seth Watts"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Research"
+      href: research.html
+output:
+  html_document:
+    theme: journal
+    
