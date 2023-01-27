@@ -1,0 +1,30 @@
+---
+title: "Research"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+
+## Publications
+
+Leveraging Body-Worn Camera Footage to Better Understand Opioid Overdoses and the Impact of Police-Led Naloxone Programs (Michael White, Carlena Orosco, Aili Malm, Dina Perrone)
+
+The Role and Utility of Body-Worn Cameras at Protests. (Janne Gaub, Michael White, Aili Malm, Katherine Brown)
+
+Moving Beyond Narcan: A Police, Social Service, and Researcher Collaborative Response to the Opioid Crisis. (Michael White, Aili Malm, Dina Perrone)
+
+Narcan Cops: Officer Perceptions of Opioid Use and Willingness to Carry Naloxone. (Michael White, Aili Malm, Dina Perrone)
+
+<br>
+<br>
+
+## Working papers
+
+A Half-Century Investigation of Police Officer Line-of-Duty Deaths: Putting Recent Trends in Long-Term Context. Submitted to Criminology and Public Policy. (Michael White, Khadija Monk)
+
+Can De-escalation Training Reduce Use of Force and Citizen Injury Without Compromising Officer Safety? (Michael White, Carlena Orosco) 
+
+Neighborhoods and Opioids: A Look at Community Level Factors.
