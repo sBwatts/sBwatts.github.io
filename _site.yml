@@ -10,5 +10,5 @@ navbar:
       href: research.html
 output:
   html_document:
-    theme: journal
+    theme: default
     
