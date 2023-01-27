@@ -1,13 +1,11 @@
 ---
-title: "Research"
+title: ""
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-<br>
-
 ## Publications
 
 Leveraging Body-Worn Camera Footage to Better Understand Opioid Overdoses and the Impact of Police-Led Naloxone Programs (Michael White, Carlena Orosco, Aili Malm, Dina Perrone)
