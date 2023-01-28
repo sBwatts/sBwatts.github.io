@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-[Curriculum Vitae](https://github.com/sBwatts/sBwatts.github.io/cv/SethWatts_cv.pdf)
+[Curriculum Vitae](https://github.com/sBwatts/sbwatts.github.io/cv/SethWatts_cv.pdf)
 
 
 ## Publications
