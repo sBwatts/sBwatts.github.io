@@ -6,6 +6,10 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+[Curriculum Vitae](https://github.com/sBwatts/sBwatts.github.io/cv/SethWatts_cv.pdf
+
+
 ## Publications
 
 Leveraging Body-Worn Camera Footage to Better Understand Opioid Overdoses and the Impact of Police-Led Naloxone Programs (Michael White, Carlena Orosco, Aili Malm, Dina Perrone)
