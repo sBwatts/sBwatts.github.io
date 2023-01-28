@@ -12,20 +12,20 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 
-## Publications
+### Publications
 
 Michael White, **Seth Watts**, Carlena Orosco, Aili Malm. 2022. [Leveraging Body-Worn Camera Footage to Better Understand Opioid Overdoses and the Impact of Police-Led Naloxone Programs](cv/2022 AJPH Narcan BWC.pdf). *American Journal of Public Health*.
 
-Janne Gaub, Michael White, AIli Malm, **Seth Watts**, Katharine Brown. 2022. [The Role and Utility of Body-Worn Cameras at Protests](cv/Gaub et al 2022.pdf). *Policing: An International Journal*.
+Janne Gaub, Michael White, Aili Malm, **Seth Watts**, Katharine Brown. 2022. [The Role and Utility of Body-Worn Cameras at Protests](cv/Gaub et al 2022.pdf). *Policing: An International Journal*.
 
-Michael White, Dina Perrone, **Seth Watts**, AIli Malm. 2021. [Moving Beyond Narcan: A Police, Social Service, and Researcher Collaborative Response to the Opioid Crisis](cv/Moving Beyond Narcan (White et al., 2021).pdf). *American Journal of Criminal Justice*.
+Michael White, Dina Perrone, **Seth Watts**, Aili Malm. 2021. [Moving Beyond Narcan: A Police, Social Service, and Researcher Collaborative Response to the Opioid Crisis](cv/Moving Beyond Narcan (White et al., 2021).pdf). *American Journal of Criminal Justice*.
 
 Michael White, Dina Perrone, Aili Malm, **Seth Watts**. 2021. [Narcan Cops: Officer Perceptions of Opioid Use and Willingness to Carry Naloxone](cv/Narcan Cops - Officer Perceptions.pdf). *Journal of Criminal Justice*.
 
 <br>
-<br>
 
-## Working papers
+
+### Working papers
 
 Michael White, Khadija Monk, **Seth Watts**. A Half-Century Investigation of Police Officer Line-of-Duty Deaths: Putting Recent Trends in Long-Term Context. Submitted to *Criminology and Public Policy*.
 
