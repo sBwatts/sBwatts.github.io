@@ -21,13 +21,14 @@ knitr::include_graphics(
 ### About me
 
 
-I am currently a PhD student at Arizona State University in the Department of Criminology and Criminal Justice. My research interests include the police, program evaluation, and neighborhood ecology. I am currently working on the Tempe First-Responder Opioid Recovery Project.
+I am currently a PhD student at Arizona State University in the Department of Criminology and Criminal Justice. My research interests include the police, program evaluation, and neighborhood ecology. I am currently working on the [Tempe First-Responder Opioid Recovery Project](https://www.publichealthpost.org/research/tempe-opioid-recovery/).
 
 ### You can find me on...
 
 
-Twitter
+[Twitter](https://twitter.com/SethBWatts)
 <br>
-ResearchGate
+[ResearchGate](https://www.researchgate.net/profile/Seth-Watts)
 <br>
-Github
+[Github](https://github.com/sBwatts)
+
