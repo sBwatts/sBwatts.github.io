@@ -1,6 +1,6 @@
 {
     "id": "891AA971",
-    "path": "~/Dropbox (Personal)/Mac/Documents/GitHub/sBwatts.github.io/_site.yml",
+    "path": "~/Dropbox (ASU)/Mac/Documents/GitHub/sBwatts.github.io/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
     "hash": "3724124401",
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "12,4",
+        "cursorPosition": "10,12",
         "scrollLine": "0"
     },
     "folds": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1674920147370,
+    "last_content_update": 1674920147,
     "read_only": false,
     "read_only_alternatives": []
 }

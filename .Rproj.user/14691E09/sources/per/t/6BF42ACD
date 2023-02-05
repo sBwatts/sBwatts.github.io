@@ -1,6 +1,6 @@
 {
     "id": "6BF42ACD",
-    "path": "~/Dropbox (Personal)/Mac/Documents/GitHub/sBwatts.github.io/index.Rmd",
+    "path": "~/Dropbox (ASU)/Mac/Documents/GitHub/sBwatts.github.io/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
     "hash": "2994536632",
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "23,730",
-        "scrollLine": "8"
+        "cursorPosition": "30,63",
+        "scrollLine": "15"
     },
     "folds": "",
     "lastKnownWriteTime": 1674920137,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1674920137638,
+    "last_content_update": 1674920137,
     "read_only": false,
     "read_only_alternatives": []
 }
