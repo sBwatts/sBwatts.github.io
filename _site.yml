@@ -2,7 +2,7 @@ name: "sBwatts.github.com"
 title: "Seth Watts"
 description: |
   The personal website of Seth Watts
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   search: true
   right:
