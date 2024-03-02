@@ -11,5 +11,5 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "Vitae"
-      href: 
+      href: cv/swatts-cv.pdf
 output: distill::distill_article
