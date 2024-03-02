@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.24)  2 MAR 2024 13:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.24)  2 MAR 2024 13:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -522,7 +522,20 @@ Package microtype Info: Character `029' is missing
 (microtype)             Ignoring protrusion settings for this character.
 [1
 
-{/Users/sethwatts/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2] [3] [4] [5] 
+{/Users/sethwatts/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 277.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 277.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 277.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 277.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 277.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 277.
+[3] [4] [5] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./swatts-cv.aux)
  ***********
@@ -533,18 +546,18 @@ Package rerunfilecheck Info: File `swatts-cv.out' has not changed.
 (rerunfilecheck)             Checksum: 8C609B0C7D22598AF4A9DE4C42E32A06;3380.
  ) 
 Here is how much of TeX's memory you used:
- 15450 strings out of 476182
- 239821 string characters out of 5794353
+ 15558 strings out of 476182
+ 241231 string characters out of 5794353
  1932975 words of memory out of 5000000
- 36919 multiletter control sequences out of 15000+600000
- 603935 words of font info for 257 fonts, out of 8000000 for 9000
+ 36967 multiletter control sequences out of 15000+600000
+ 623949 words of font info for 316 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,6n,79p,1198b,488s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,7n,79p,1198b,488s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/sethwatts/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on swatts-cv.pdf (5 pages, 107147 bytes).
+Output written on swatts-cv.pdf (5 pages, 107329 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
- 181 compressed objects within 2 object streams
- 54 named destinations out of 1000 (max. 500000)
- 53441 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 220 PDF objects out of 1000 (max. 8388607)
+ 184 compressed objects within 2 object streams
+ 55 named destinations out of 1000 (max. 500000)
+ 78017 words of extra memory for PDF output out of 89155 (max. 10000000)
 

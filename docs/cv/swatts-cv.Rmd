@@ -120,9 +120,7 @@ Supervisor: Dr. Cody Telep
 Crime and Justice News ([Sep, 16, 2022](https://www.ncja.org/crimeandjusticenews/research-backs-police-response-to-drug-overdoses)), Public Health Post ([Sep, 16, 2021](https://www.publichealthpost.org/research/tempe-opioid-recovery/))
 
 \vspace{2mm}
-## Conference Presentations
-
-Coauthor presenter: ($^P$)
+## Conference Presentations^[Presented by coauthor ($P$)]
 
 Gutierrez, S., Mathis, S., Sanuth, A., Watts, S., Wallace, D. (February 2024). Is Law-Violating Driving Behavior Race Specific? Mapping Rates of At-Fault Traffic Accidents by Race. Western Society of Criminology.$^P$
 
