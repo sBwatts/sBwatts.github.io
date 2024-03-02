@@ -1,0 +1,23 @@
+---
+title: "Seth Watts"
+image:
+links:
+  - label: "CV"
+    url:
+  - label: '<i class="fab fa-github fa-lg"></i>'
+    url: https://github.com/sBwatts
+  - label: '<i class="fab fa-twitter fa-lg"></i>'
+    url: https://twitter.com/SethBWatts
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
